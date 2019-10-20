@@ -1,4 +1,4 @@
-# Project-1
+# Weather To Drink
 
 ##### Created by Brian Carver, Barbara Whiting, Peace Akpai, and Austin Terry
 
