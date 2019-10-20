@@ -1,9 +1,8 @@
 # Project-1
 
-#####Created by Brian Carver, Barbara Whiting, Peace Akpai, and Austin Terry
+##### Created by Brian Carver, Barbara Whiting, Peace Akpai, and Austin Terry
 
-https://brarver.github.io/weatherToDrink/ - automatic!
-[View Weather to Drink] (https://brarver.github.io/weatherToDrink/)
+https://brarver.github.io/weatherToDrink/ 
 
 
 * This application helps the user plan for parties or special events by suggesting an alcoholic drink based on the weather where the user is currently located. The app allows the user to save drinks to a 'favorites' section to help them in their selection process. The users' favorite drinks will remain visible until the user closes their browser.
